@@ -228,7 +228,7 @@ export default function VideoCallPage() {
       <div className="min-h-full flex flex-col">
         <div className="flex items-center gap-3 px-5 pt-14 pb-4">
           <Link
-            href="/"
+            href="/hub"
             className="w-9 h-9 rounded-xl bg-white border border-gray-200 flex items-center justify-center"
           >
             <ArrowLeft size={18} className="text-navy" />
